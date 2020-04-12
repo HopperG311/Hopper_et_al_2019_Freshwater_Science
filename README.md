@@ -3,4 +3,4 @@
 
 # FSvideoData
 Data from underwater video footage of enclosures described in the paper. 
-Data used to make Figure 3A and B. 
+Data used to make Figure 3, and Figure S2. 
